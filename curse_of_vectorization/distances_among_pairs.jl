@@ -1,4 +1,4 @@
-# Daniel C. Moura
+# Copyright (c) 2019 Daniel Moura
 # https://towardsdatascience.com/freeing-the-data-scientist-mind-from-the-curse-of-vectorization-11634c370107?source=friends_link&sk=e7b0086f3678261cb64b6dbb43744613
 # linkedin.com/in/dmoura
 # twitter.com/daniel_c_moura
