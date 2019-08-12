@@ -39,6 +39,7 @@ end
 ### aux functions ###
 
 function bench(label, f, v)
+    GC.gc() #cleaning the garbage before each measurement
     print("$label:\n  ")
     @time @CPUtime f(v)
     println()
