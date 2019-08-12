@@ -1,3 +1,5 @@
 To run the experiments published in https://towardsdatascience.com/freeing-the-data-scientist-mind-from-the-curse-of-vectorization-11634c370107?source=friends_link&sk=e7b0086f3678261cb64b6dbb43744613 
+
 R --vanilla --slave < distances_among_pairs.R
+
 julia --optimize=3 --check-bounds=no distances_among_pairs.jl
