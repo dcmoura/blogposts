@@ -46,13 +46,9 @@ function bench(label, f, v)
 end
 
 function readvec(run)
-    a = Float64[]
-    f = open("vec$run.csv", "r")
-    for line in eachline(f)
-        push!(a, parse(Float64, line))
+    open("vec$run.csv", "r") do f
+        map(line -> parse(Float64, line), eachline(f))
     end
-    close(f)
-    a
 end
 
 
