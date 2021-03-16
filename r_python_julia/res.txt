@@ -1,0 +1,21 @@
+l	Lang	Implem	C	Julia	Python	R	cpu_time
+1	C	for	0.26				0.26
+2	Julia	findfirst		0.32			0.32
+2	Julia	for		0.32			0.32
+2	Julia	foreach		0.33			0.33
+2	Julia	in		0.37			0.37
+2	Julia	mapr		0.38			0.38
+3	Python	foreach (Numba)			0.47		0.47
+3	Python	for (Numba) 			0.55		0.55
+3	Python	in (NumPy)			0.57		0.57
+3	Python	vec (NumPy)			0.57		0.57
+4	R	in				0.93	0.93
+2	Julia	vec		1.10			1.1
+4	R	vec				2.68	2.68
+3	Python	in			9.13		9.13
+4	R	foreach				13.33	13.33
+3	Python	foreach			18.70		18.70
+4	R	for				21.94	21.94
+3	Python	for			40.75		40.75
+3	Python	foreach (NumPy)			121.48		121.48
+3	Python	for (NumPy)			161.36		161.36
