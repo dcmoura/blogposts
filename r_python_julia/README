@@ -1,0 +1,10 @@
+To run the experiments published in ** LINK TO ARTICLE GOES HERE **
+
+gcc linear_search.c -O3
+./a.out
+
+julia --optimize=3 --check-bounds=no linear_search.jl
+
+python3 -O linear_search.py 
+
+R --vanilla --slave < linear_search.R
