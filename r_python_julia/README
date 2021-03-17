@@ -1,9 +1,10 @@
 To run the experiments published in ** LINK TO ARTICLE GOES HERE **
 Times included in the source files are for:
-- MacBookPro14.1, 2.3 GHz Intel i5, 16 GB RAM, MacOS Catalina
-- Apple clang version 11.0.3
+- MacBookPro14.1, 2.3 GHz Intel i5, 16 GB RAM
+- Mac OS 10.14 
+- XCode 10.1
 - Julia 1.0.3
-- Python 3.8.5
+- Python 3.7.0
 - R 3.6.0
 
 gcc linear_search.c -O3
