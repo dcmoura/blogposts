@@ -1,5 +1,5 @@
 # Copyright (c) 2021 Daniel C. Moura
-# ** LINK TO ARTICLE GOES HERE **
+# https://towardsdatascience.com/r-vs-python-vs-julia-90456a2bcbab
 # linkedin.com/in/dmoura
 # twitter.com/daniel_c_moura
 

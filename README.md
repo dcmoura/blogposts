@@ -16,6 +16,7 @@ https://towardsdatascience.com/freeing-the-data-scientist-mind-from-the-curse-of
 
 Python is the languange of choice of most data scientists, followed by R. Julia is the new kid on the block that promisses C-like performance. How do these languages compare when you need to write efficient algorithms?
 
-** LINK TO ARTICLE GOES HERE **
+[Published @ Towards Data Science on Medium](
+https://towardsdatascience.com/r-vs-python-vs-julia-90456a2bcbab)
 
 [Source code and data](https://github.com/dcmoura/blogposts/tree/master/r_python_julia)
