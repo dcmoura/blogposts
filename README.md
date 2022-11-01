@@ -1,6 +1,6 @@
 # Blog posts
 
-Here you can find the code that I make for my blog posts.
+Here you can find the code/data for my blog posts.
 
 ## Freeing the data scientist mind from the curse of vectoRization - Julia to the rescue!
 
@@ -20,3 +20,13 @@ Python is the languange of choice of most data scientists, followed by R. Julia 
 https://towardsdatascience.com/r-vs-python-vs-julia-90456a2bcbab)
 
 [Source code and data](https://github.com/dcmoura/blogposts/tree/master/r_python_julia)
+
+
+## Command-line data analytics made easy
+
+The command-line is incredibly powerful when it comes to data processing. Still, many of us working with data do not take advantage of it. 
+In this post I show how [SPyQL - SQL with Python in the middle](https://github.com/dcmoura/spyql) simplifies querying data from the command-line.
+
+[Published @ danielcmoura.com](http://danielcmoura.com/blog/2022/spyql-cell-towers/)
+
+[Data](https://github.com/dcmoura/blogposts/tree/master/spyql_cell_towers)
